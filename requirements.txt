@@ -1,0 +1,6 @@
+# Minimal dependencies for predict_single_image.py only.
+# Versions are not pinned: the working environment versions were not captured.
+# Training, data preparation, and image extraction may need additional packages.
+torch
+torchvision
+Pillow
