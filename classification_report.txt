@@ -1,0 +1,18 @@
+                  precision    recall  f1-score   support
+
+   Abnormal_Wear     0.8793    0.7969    0.8361        64
+     Bead_Damage     0.7667    0.7188    0.7419        32
+           Bulge     0.6429    0.5625    0.6000        16
+             Cut     0.9041    0.8684    0.8859        76
+  Shoulder_Crack     0.8780    0.9351    0.9057        77
+  Sidewall_Crack     0.5294    0.6000    0.5625        15
+ Sidewall_Damage     0.7222    0.7879    0.7536        33
+      Tire_Burst     0.7500    0.6667    0.7059        18
+  Tread_Chunking     0.6667    0.7059    0.6857        34
+    Tread_Damage     0.4762    0.6250    0.5405        32
+Tread_Separation     0.9231    0.5714    0.7059        21
+        noDefect     0.9608    0.9800    0.9703        50
+
+        accuracy                         0.7970       468
+       macro avg     0.7583    0.7349    0.7412       468
+    weighted avg     0.8077    0.7970    0.7989       468
