@@ -224,3 +224,35 @@ __marimo__/
 .env.*
 !.env.example
 /#TireDefect/N_A.zip
+
+
+# Local dataset copies and review files
+/N_training/
+/clean_dataset/
+/clean_dataset - Copy/
+/clip_mismatch_review/
+/files_unwanted/
+/model_mismatch_removed/
+/removed_mismatch_from_clean_dataset/
+/removed_mismatch_images/
+/removed_visual_duplicates/
+/removed_visual_duplicates_old/
+/visual_duplicate_review/
+
+/train_split_dataset_1/
+/train_split_dataset_2/
+/train_split_dataset_3/
+/train_split_dataset_4/
+/train_split_dataset_old/
+
+/TyreImageExtractor/All_Brands_Review/
+/TyreImageExtractor/Industrial_500/
+/TyreImageExtractor/*.txt
+
+/results/
+/manual_inspection_by_defect.xlsx
+/manual_inspection_by_defect1.xlsx
+/manual_inspection_by_defect_old.xlsx
+/moved_model_mismatches.csv
+/moved_visual_duplicates.csv
+/visual_duplicate_report.csv
