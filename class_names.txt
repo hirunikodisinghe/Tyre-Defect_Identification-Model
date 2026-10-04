@@ -1,0 +1,12 @@
+Abnormal_Wear
+Bead_Damage
+Bulge
+Cut
+Shoulder_Crack
+Sidewall_Crack
+Sidewall_Damage
+Tire_Burst
+Tread_Chunking
+Tread_Damage
+Tread_Separation
+noDefect
