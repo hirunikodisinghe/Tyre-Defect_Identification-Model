@@ -16,7 +16,7 @@ from torchvision.models import efficientnet_b0
 
 PROJECT_DIR = Path(__file__).resolve().parent
 
-MODEL_PATH = PROJECT_DIR / "best_tire_defect_model.pth"
+MODEL_PATH = PROJECT_DIR / "best_tire_defect_model_4.pth"
 CLASS_NAMES_PATH = PROJECT_DIR / "class_names.txt"
 
 
